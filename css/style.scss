@@ -1,0 +1,11 @@
+$color-bg : #eee;
+$pad : 50%;
+div{
+    margin: auto;
+    background-color: $color-bg;
+    padding: $pad / 25;
+    width: $pad;
+    img{
+        width: $pad*2;
+    }
+}
